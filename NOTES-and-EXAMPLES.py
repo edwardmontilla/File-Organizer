@@ -105,7 +105,7 @@ from pathlib import Path
 
 # create a directory named "My Folder" if it doesn't already exist                  ----#
 # Path("Name of folder").mkdir(does_it_exist = True)                                    #
-# to move files we'll; import the shutil module                                         #
+# to move files we'll import the shutil module                                          #
                                                                                         #
 import os
 import shutil
