@@ -18,6 +18,9 @@
 
 # make sure to double check the directory using 'print(os.getcwd())'
 
+import os
+os.chdir('/Users/Edan/Desktop/a very nice folder')
+
 # to get a list of the different file names in the folder:                          ----#
 # print(os.listdir())                                                                   #
                                                                                         #
