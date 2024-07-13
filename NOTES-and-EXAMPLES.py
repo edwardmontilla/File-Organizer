@@ -61,7 +61,7 @@ os.chdir('/Users/Edan/Desktop/a very nice folder')
 # .mp3                                                                              ----#
 
 # we can choose to replace spaces in the file name to a hyphen                      ----#
-# the .replace() method                                                                 #
+# using the .replace() method                                                           #
 
 import os
 os.chdir('/Users/Edan/Desktop/a very nice folder')
