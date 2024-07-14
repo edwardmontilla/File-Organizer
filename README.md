@@ -1,5 +1,5 @@
 # File-Organizer
-## File Organizer using a Python script
+## Organizer your files using this Python script
 
 Please read **NOTES-and-EXAMPLES.py** file to get the general idea of how the script works.
 
