@@ -1,5 +1,5 @@
 # File Organizer-v2
-# Separates files and moves them to specified folders
+# Separates files and moves them to specific folders
 
 import os
 import shutil
