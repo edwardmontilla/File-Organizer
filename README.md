@@ -1,8 +1,10 @@
 # File-Organizer
-## Organize your files using this Python script
 
-Please read **NOTES-and-EXAMPLES.py** file to get the general idea of how the script works.
+Organize your files using this Python script.
 
+(Please read **NOTES-and-EXAMPLES.py** file to get the general idea of how the script works.)
+
+<br />
 Version Summary:
 
 - Ver 1: Simple moving of files to one folder.
